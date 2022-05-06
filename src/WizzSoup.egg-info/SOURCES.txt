@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+src/WizzSoup.py
+src/WizzSoup.egg-info/PKG-INFO
+src/WizzSoup.egg-info/SOURCES.txt
+src/WizzSoup.egg-info/dependency_links.txt
+src/WizzSoup.egg-info/requires.txt
+src/WizzSoup.egg-info/top_level.txt
